@@ -8,4 +8,3 @@ Projects from UCLA's CS 32 Class (Spring 2021)<br/>
 6. HW 2 (100/100)<br/>
 7. HW 3 (100/100)<br/>
 8. HW 4 (100/100)<br/>
-9. HW 5 (100/100)<br/>
